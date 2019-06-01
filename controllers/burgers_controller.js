@@ -1,9 +1,9 @@
-var express = require("express");
+const express = require("express");
 
-var router = express.Router();
+const router = express.Router();
 
 // Import Model
-var burger = require("../models/burger.js")
+const burger = require("../models/burger.js")
 
 //========================================
 //ROUTES
