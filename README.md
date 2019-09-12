@@ -25,7 +25,7 @@ npm install
 ## Usage
 
 ```sh
-Enter the name of the burger you deeply desire in the form input field and submit. Once you eat your beautiful burger, click &#34;devour it&#34;.
+Enter the name of the burger you deeply desire in the form input field and submit. Once you eat your beautiful burger, click "Devour It"
 ```
 
 ## Run tests
