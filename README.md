@@ -1,14 +1,19 @@
-<h1 align="center">Welcome to Burger Bucket List 👋</h1>
+<h1 align="center">Welcome to Burger Bucket List</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+   <img alt="License: MIT" src="https://img.shields.io/static/v1?label=stack&message=front-end&color=important&style=flat-square" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000&style=flat-square" />
   <a href="https://github.com/sandtr0ut/burger#readme">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen?style=flat-square" target="_blank" />
   </a>
   <a href="https://github.com/sandtr0ut/burger/graphs/commit-activity">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-blueviolet?style=flat-square" target="_blank" />
   </a>
+  <a href="https://github.com/sandtr0ut/crystals-collector/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/sandtr0ut/burger?style=flat-square" target="_blank" />
+    </a>
+
   <a href="https://github.com/sandtr0ut/burger/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" target="_blank" />
   </a>
 </p>
 

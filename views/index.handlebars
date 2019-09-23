@@ -5,11 +5,11 @@
             <h1> Burger Bucket-List! </h1>
         </div>
         <div class="col-md-6 text-center" class="task">
-            <div class="row">
+            <div class="row align-items-start">
                 {{#each burger_data}}
                     {{#unless this.devoured}}
                         <div class="col-md-9 text-center">
-                            <pre>{{this.id}}. {{this.burger_name}}
+                            <pre>{{this.burger_name}}
                             </pre>
                             <!-- {{this.Date}} -->
                         </div>
@@ -26,7 +26,7 @@
         <div class="col-md-6 text-center" class="task">
             {{#each burger_data}}
                 {{#if this.devoured}}
-                    <input class="form-control" type="text" placeholder="{{this.id}} . {{this.burger_name}}" readonly>
+                    <input class="form-control" type="text" placeholder="{{this.burger_name}}">
                 {{/if}}
             {{/each}}
         </div>
