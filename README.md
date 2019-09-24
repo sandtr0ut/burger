@@ -11,18 +11,14 @@
   <a href="https://github.com/sandtr0ut/burger/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/sandtr0ut/burger?style=flat-square" target="_blank" />
     </a>
-  <a href="https://calm-garden-80956.herokuapp.com/burgers">
-    <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=online&style=flat-square&url=https%3A%2F%2Fcalm-garden-80956.herokuapp.com%2Fburgers" target="_blank">
-    </a>
-
-  <a href="https://github.com/sandtr0ut/burger/blob/master/LICENSE">
+    <a href="https://github.com/sandtr0ut/burger/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" target="_blank" />
   </a>
 </p>
 
 > Burger Bucket List is an editable "to-eat" application you can use to keep track of the most delicious burgers you can't wait to eat! Made with with NodeJS, MySQL, Express, Handlebars and a homemade ORM (yum!)
 
-### 🏠 [Homepage](https://github.com/sandtr0ut/burger#readme)
+### 🏠 [Homepage](https://calm-garden-80956.herokuapp.com/burgers)
 
 ## Install
 
